@@ -1,11 +1,11 @@
 {
   "site": {
-    "name": "Your Name",
+    "name": "Henry Larson",
     "photo": "",
-    "title": "Your Name — Engineering Portfolio",
-    "tagline": "A short sentence about the work you want to do.",
-    "email": "you@example.com",
-    "location": "Your City, State",
+    "title": "Henry Larson — Engineering Portfolio",
+    "tagline": "Learning through experiencing",
+    "email": "hlarson096@gmail.com",
+    "location": "pending, New York",
     "status": "Open to opportunities",
     "resume": "",
     "templateCredit": {
@@ -21,9 +21,9 @@
     ],
     "looking": "Use this space to say what you are looking for, such as an internship, collaborator, or full-time role.",
     "profile": {
-      "Based in": "Your City, State",
-      "Studying": "Your degree or program",
-      "Graduating": "Month Year",
+      "Based in": "pending, New York",
+      "Studying": "Aerospace Undergraduate at University at Buffalo",
+      "Graduating": "June 2030",
       "Focus": "Your technical interests"
     }
   },
@@ -99,8 +99,8 @@
     }
   ],
   "contact": [
-    { "label": "Email", "url": "mailto:you@example.com", "icon": "mail" },
-    { "label": "GitHub", "url": "https://github.com/your-username", "icon": "github" },
-    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/your-profile", "icon": "linkedin" }
+    { "label": "Email", "url": "hlarson096@gmail.com", "icon": "mail" },
+    { "label": "GitHub", "url": "https://github.com/YaBoi646", "icon": "github" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/henry-larson-a94a44439", "icon": "linkedin" }
   ]
 }
